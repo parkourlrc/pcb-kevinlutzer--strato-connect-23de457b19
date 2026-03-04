@@ -27,7 +27,6 @@
 // Modulation index: 5
 */
 
-
 // CONFIGURATION PARAMETERS
 #define RADIO_CONFIGURATION_DATA_RADIO_XO_FREQ                     30000000L
 #define RADIO_CONFIGURATION_DATA_CHANNEL_NUMBER                    0x00

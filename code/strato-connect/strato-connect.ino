@@ -45,6 +45,6 @@ void loop() {
   digitalWrite(LED_TX, LOW);
   delay(1000);
   digitalWrite(LED_TX, HIGH);
-  rf4463.txPacket(tx_buf, sizeof(tx_buf));
+  // rf4463.txPacket(tx_buf, sizeof(tx_buf));
   delay(1000);
 }
